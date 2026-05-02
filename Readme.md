@@ -7,6 +7,14 @@ The system connects customers, restaurant owners, delivery partners, and admin i
 
 ---
 
+## 🌐 Live Demo
+
+Experience CRAVIT live here:
+
+🔗 [Visit CRAVIT Website](https://craveit-lime.vercel.app/)
+
+---
+
 ## 🎯 Objectives
 - Make food ordering simple and fast  
 - Provide real-time order tracking  
@@ -139,6 +147,14 @@ The system connects customers, restaurant owners, delivery partners, and admin i
 - Class Diagram  
 - Sequence Diagram  
 - Activity Diagram  
+
+---
+
+## 📂 Project Documentation & Diagrams
+
+Access complete project documents, UML diagrams, SRS, DFD, reports, and additional resources here:
+
+🔗 [Google Drive Project Folder](https://drive.google.com/drive/folders/1lg5R_4CMpPtBVh2a2MSPyL3awlbM1g1A)
 
 ---
 
