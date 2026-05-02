@@ -176,23 +176,5 @@ Access complete project documents, UML diagrams, SRS, DFD, reports, and addition
 
 ---
 
-## 👨‍💻 Team Members
-
-- Diya Jain – Documentation + Frontend  
-- Divyesh Dandwani – Frontend + Integration  
-- Yash Gangwani – Backend + Database  
-- Aman Rohera – Backend + Firebase  
-
----
-
-## 📅 Timeline
-- Jan – Proposal & Planning  
-- Feb – SRS & UI Design  
-- Mar – DFD, UML, Firebase Integration  
-- Apr – Backend APIs & Testing  
-- May – Final Submission  
-
----
-
 ## ✅ Conclusion
 CRAVIT provides a complete solution for online food ordering with real-time tracking and multi-user interaction. It improves efficiency, user experience, and system management for all stakeholders.
